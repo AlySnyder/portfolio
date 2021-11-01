@@ -9,7 +9,7 @@
 [Aly Snyder](https://alysnyder.github.io/portfolio/)
 
 ### Screenshot
-![](profile.png)
+![profile](assets/images/profile.png)
 
 
 
